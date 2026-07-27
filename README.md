@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/Abhinavd2004">
-    <img src="https://komarev.com/ghpvc/?username=Abhinavd2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  
   </a>
 </p>
 
