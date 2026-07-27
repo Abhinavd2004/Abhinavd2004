@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science & Engineering student at **Amrita Vishwa Vidyapeetham** (CGPA: **8.42**)
+🎓 B.Tech Computer Science & Engineering student at **Amrita Vishwa Vidyapeetham** 
 
 💻 Passionate about building intelligent software using **Artificial Intelligence, Machine Learning, Computer Vision, and Large Language Models.**
 
